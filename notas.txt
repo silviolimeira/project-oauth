@@ -1,0 +1,18 @@
+
+
+Vídeo Referência:
+https://www.youtube.com/watch?v=hgLKOPHfuis&t=204s
+
+
+778 visualizações  26 de abr. de 2023
+Tutorial completo onde você vai aprender a usar o Spring Authorization Server integrado com um Oauth Client e um Resource Server, tudo isso utilizando o OpenID e seguindo o grant type authorization code!
+
+💻 Github: https://tinyurl.com/tutorial-spring-as
+
+🌟 Conheça também os meus conteúdos em outras plataformas:
+Blog: https://medium.com/@giuliana-bezerra
+Curso sobre Spring Batch: https://tinyurl.com/curso-springbatch
+Curso sobre otimização de jobs Spring Batch: https://tinyurl.com/curso-sb-otimizacao
+Curso sobre testes com Spring Boot: https://tinyurl.com/curso-testes-spri...
+Curso sobre AdonisJS: https://tinyurl.com/curso-adonisjs
+
